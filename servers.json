@@ -2,7 +2,13 @@
     {
       "x2": "true",
       "name": "Сервер 01",
-      "online": 121,
+      "online": 128,
       "maxonline": 700
+    },
+    {
+      "x2": "",
+      "name": "Тестовый сервер",
+      "online": 0,
+      "maxonline": 0
     }
  ]
